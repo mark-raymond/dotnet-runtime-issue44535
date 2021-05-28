@@ -1,0 +1,14 @@
+packages
+obj/
+bin/
+.vs/
+_ReSharper.Caches/
+*.user
+*.suo
+*.orig
+*.dll
+*.exe
+.idea/
+Output/
+launchSettings.json
+paket.lock
